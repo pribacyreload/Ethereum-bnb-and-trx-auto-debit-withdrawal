@@ -1,4 +1,7 @@
 # Ethereum-bnb-and-trx-auto-debit-withdrawal
+
+REACH ME ON TELEGRAM @pribacyreload to set up yours
+
 A smart contract that auto withdraws eth, bnb and trx from wallets
 
 THIS IS FOR EDUCATIONAL PURPOSES ONLY !
